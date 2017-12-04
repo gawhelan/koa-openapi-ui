@@ -1,0 +1,13 @@
+{
+  "name": "koa-openapi-ui",
+  "version": "0.1.0",
+  "description": "Koa middleware for generating UI from an OpenAPI 2.0 specification.",
+  "main": "index.js",
+  "repository": "https://github.com/gawhelan/koa-openapi-ui",
+  "author": "Graham Whelan <gawhelan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "swagger2": "^0.0.26",
+    "swagger2-koa": "^0.0.38"
+  }
+}
